@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T10:54:21.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zDpJS0sDHh44tt-oXfSD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T13:24:46.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HYeojsGNA_IMRU7Z1On2" version="20.8.20" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1235" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -62,36 +62,26 @@
         <mxCell id="37JBcsI9YSLg2vtRYZui-8" value="&lt;span&gt;Etape 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="812.5" y="730" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="37JBcsI9YSLg2vtRYZui-9" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="802" width="215" height="120" as="geometry" />
+        <mxCell id="37JBcsI9YSLg2vtRYZui-9" value="&lt;h1&gt;Présentation Comité Valuation&lt;/h1&gt;&lt;p&gt;Présenter le projet d&#39;ideation au comité de valorisation&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="802" width="215" height="218" as="geometry" />
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-11" value="&lt;span&gt;Etape 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="802" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="37JBcsI9YSLg2vtRYZui-12" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="37JBcsI9YSLg2vtRYZui-12" value="&lt;h1&gt;Préparation Adoption&lt;/h1&gt;&lt;p&gt;Développer l&#39;idée sur la base du comité de valorisation.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="646" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-17" value="&lt;span&gt;Etape 7&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="355.5" y="733" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="37JBcsI9YSLg2vtRYZui-18" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="37JBcsI9YSLg2vtRYZui-18" value="&lt;h1&gt;Présentation Comité Adoption&lt;/h1&gt;&lt;p&gt;Presenter le projet au comité d&#39;adoption&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="805" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-19" value="&lt;span&gt;Etape 8&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="115.5" y="805" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="37JBcsI9YSLg2vtRYZui-20" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="37JBcsI9YSLg2vtRYZui-20" value="&lt;h1&gt;Lancement Projet&lt;/h1&gt;&lt;p&gt;Lancement du projet en tant que projet DIN&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="93" y="645" width="215" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="37JBcsI9YSLg2vtRYZui-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#004d99;strokeWidth=2;" edge="1" parent="1" source="37JBcsI9YSLg2vtRYZui-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55.5" y="805" as="sourcePoint" />
-            <mxPoint x="80" y="1200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="960" />
-              <mxPoint x="55.5" y="1080" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
           <mxGeometry x="190.5" y="775" width="20" height="20" as="geometry" />
