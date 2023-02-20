@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T13:24:46.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HYeojsGNA_IMRU7Z1On2" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T13:25:11.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-AyDLUXmNSIbmMBdgvpz" version="20.8.20" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1235" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -62,8 +62,8 @@
         <mxCell id="37JBcsI9YSLg2vtRYZui-8" value="&lt;span&gt;Etape 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="812.5" y="730" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="37JBcsI9YSLg2vtRYZui-9" value="&lt;h1&gt;Présentation Comité Valuation&lt;/h1&gt;&lt;p&gt;Présenter le projet d&#39;ideation au comité de valorisation&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="785" y="802" width="215" height="218" as="geometry" />
+        <mxCell id="37JBcsI9YSLg2vtRYZui-9" value="&lt;h1&gt;Présentation Comité Valorisation&lt;/h1&gt;&lt;p&gt;Présenter le projet d&#39;ideation au comité de valorisation&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="802" width="215" height="168" as="geometry" />
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-11" value="&lt;span&gt;Etape 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="802" width="160" height="35" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="355.5" y="733" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-18" value="&lt;h1&gt;Présentation Comité Adoption&lt;/h1&gt;&lt;p&gt;Presenter le projet au comité d&#39;adoption&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="805" width="215" height="120" as="geometry" />
+          <mxGeometry x="328" y="805" width="215" height="165" as="geometry" />
         </mxCell>
         <mxCell id="37JBcsI9YSLg2vtRYZui-19" value="&lt;span&gt;Etape 8&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
           <mxGeometry x="115.5" y="805" width="160" height="35" as="geometry" />
